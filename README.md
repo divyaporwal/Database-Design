@@ -37,6 +37,12 @@ combination of both. The cash amount is recorded if a person pays by cash. For I
 insurance details such as Insurance ID, Insurance Provider, Insurance coverage and the amount is
 recorded
 
+Project Questions :
+
+Phase I. Draw an EER to accurately represent this set of requirements. This will be your
+Conceptual Design. Clearly specify any assumptions that you are making. You can use any tools
+(software) to draw the EER. 
+
 Phase II. It has been decided to use a relational DBMS to implement the database. Perform the
 following steps.
 a. Convert your Conceptual model (Phase I) to a Logical model that can be implemented in a
